@@ -3,17 +3,17 @@
 Here you can find the list of the main projects on which I have worked during my career divided per tematic area.
 
 ## ⚡ Videogame development ⚡
-- Santorini board game
+- [Santorini board game](https://github.com/LeonardoRuzza/ing-sw-2020-Ruzza-Venir-Schips)
 
 ## ⚡ Middleware Technologies for Distributed Systems ⚡
-- Distributed Node-RED flows
-- Analysis of Covid data with Spark
+- [Distributed Node-RED flows](https://github.com/EdoardoV97/Distributed-Node-RED-flows)
+- [Analysis of Covid data with Spark](https://github.com/LeonardoRuzza/middleware_spark_project)
 
 ## ⚡ Software Engineering ⚡
-- RASD and DD development
+- [RASD and DD development](https://github.com/EdoardoV97/RASD-DD-Development)
 
 ## ⚡ Full Stack Website development ⚡
-- Example of a Website implementation
+- [Example of a Website implementation](https://github.com/LeonardoRuzza/ELM-hypermedia2021)
 
 
 
