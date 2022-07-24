@@ -2,6 +2,9 @@
 
 Here you can find the list of the main projects on which I have worked during my career divided per tematic area.
 
+## ⚡ Distributed Systems ⚡
+- [Raft protocol](https://github.com/EdoardoV97/Raft-Omnet)
+
 ## ⚡ Videogame development ⚡
 - [Santorini board game](https://github.com/LeonardoRuzza/ing-sw-2020-Ruzza-Venir-Schips)
 
