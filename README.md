@@ -2,6 +2,12 @@
 
 Here you can find the list of the main projects on which I have worked during my career divided per tematic area.
 
+## ⚡ Rental Deposits on Blockchain ⚡
+- [Leasy](https://leasy.estate/)
+
+## ⚡ Distributed Machine Learning on Blockchain ⚡
+- [Federated ML](https://github.com/EdoardoV97/Home_Tesi_Ruzza_Venir_2022)
+
 ## ⚡ Distributed Systems ⚡
 - [Raft protocol](https://github.com/EdoardoV97/Raft-Omnet)
 
